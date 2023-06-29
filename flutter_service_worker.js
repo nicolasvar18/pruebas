@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b221f02947ad8360d40d2672631b3313",
-"assets/AssetManifest.json": "7b9508a3988a362e5fc35622c14be0eb",
+const RESOURCES = {"assets/AssetManifest.bin": "0eb567932693b4e2d22ddd27b9ee393d",
+"assets/AssetManifest.json": "532e0a8c6b898a51d3efd1614e223155",
 "assets/assets/audio/quientequiere.mp3": "0de8d1b80528654cf83e92f305894beb",
+"assets/assets/audio/song.mp3": "dc59366d492a07188cef1fe0e05c03bd",
 "assets/assets/audio/tevienmipesadilla.mp3": "d933dc78abcbc2a1022e53794b8fbcfb",
 "assets/assets/audio/yoko.mp3": "440a384e01ae8ff682604db3b7a57eed",
 "assets/assets/fonts/ChivoMono-Italic-VariableFont_wght.ttf": "7259f8c86ac5e50fe9448171ca7ec9ea",
@@ -35,9 +36,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "b221f02947ad8360d40d2672631b3313
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1314bd73f87e24a818972ac1e25f62be",
-"/": "1314bd73f87e24a818972ac1e25f62be",
-"main.dart.js": "0629e94bfe34456dd64f8089fb761c5b",
+"index.html": "60db24e9df5b3e8ddef4c15198bf582a",
+"/": "60db24e9df5b3e8ddef4c15198bf582a",
+"main.dart.js": "41fd9f61875c1f7263e0882de2cd25e9",
 "manifest.json": "4c8a7b06440ee6aa00366cd64e51670f",
 "version.json": "91352238f7f8c2f8dd0b20ac43908b6a"};
 // The application shell files that are downloaded before a service worker can
